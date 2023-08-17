@@ -123,60 +123,6 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Dev",
-				color: "magenta",
-				align: "left",
-				links: [
-					{
-						name: "GitHub",
-						url: "https://github.com",
-						icon: "mdi:github"
-					},
-					{
-						name: "GitLab",
-						url: "https://gitlab.com",
-						icon: "ph:gitlab-logo-simple-fill"
-					},
-					{
-						name: "Dev.to",
-						url: "https://dev.to",
-						icon: "material-symbols:logo-dev"
-					},
-					{
-						name: "Stack Overflow",
-						url: "https://stackoverflow.com/",
-						icon: "mdi:stack-overflow"
-					}
-				]
-			},
-			{
-				title: "Social",
-				color: "violet",
-				align: "left",
-				links: [
-					{
-						name: "Twitter",
-						url: "https://twitter.com",
-						icon: "mdi:twitter"
-					},
-					{
-						name: "Mastodon",
-						url: "https://mastodon.social/",
-						icon: "ri:mastodon-fill"
-					},
-					{
-						name: "Reddit",
-						url: "https://reddit.com",
-						icon: "mdi:reddit"
-					},
-					{
-						name: "Polywork",
-						url: "https://polywork.com",
-						icon: "simple-icons:polywork"
-					}
-				]
-			},
-			{
 				title: "Gaming",
 				color: "cyan",
 				align: "left",
