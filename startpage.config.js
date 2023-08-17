@@ -41,7 +41,7 @@ const defaultConfig = {
 		selectionFg: "black"
 	},
 	fetch: {
-		timeFormat: "HH:mm",
+		timeFormat: "HH:mm:ss",
 		dateFormat: "DD/MM/YYYY",
 		titleColor: "yellow",
 		image: "icon.svg",
@@ -111,24 +111,14 @@ const defaultConfig = {
 				align: "left",
 				links: [
 					{
-						name: "Portfolio",
-						url: "https://cancellek.com",
-						icon: "mdi:web"
-					},
-					{
-						name: "Keybase",
-						url: "https://keybase.io/",
-						icon: "fa-brands:keybase"
-					},
-					{
 						name: "GPT",
 						url: "https://chat.openai.com/",
 						icon: "simple-icons:openai"
 					},
 					{
-						name: "OCI",
-						url: "https://www.oracle.com/cloud/",
-						icon: "simple-icons:oracle"
+						name: "YouTube",
+						url: "https://youtube.com/",
+						icon: "simple-icons:youtube"
 					}
 				]
 			},
